@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CA210325
 {
@@ -13,7 +10,7 @@ namespace CA210325
         const int elfogadhatoFizu = 3800;
         static int[] masikTomb = new int[100];
         const int szulEv = 1990;
-        static void Main(string[] args)
+        static void Main()
         {
             F02();
             F0304();
